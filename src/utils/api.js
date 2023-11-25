@@ -1,1 +1,1 @@
-export const server_url = "http://localhost:8080/api";
+export const server_url = "https://front-end-design-web-json-server.vercel.app/api";
