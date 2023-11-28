@@ -2,6 +2,8 @@
 
 ## ENZO SILVA CATALDI RM99826
 ## HOST SITE: https://front-end-design-web-frontend.vercel.app/dashboard
+##login: abc@gmail.com, abc12345
+
 
 
 ## TER CREATE REACT APP INSTALADO
